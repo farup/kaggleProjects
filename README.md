@@ -10,6 +10,6 @@ Brief overview:
     -  AgeImputer() : Filling in missing values for 'Age' column
     -   FeatureEncoder() : OneHot encodes categorical data
     -   FeatureDropper() : Drops not useful columns 
-    -  Pipeline combines mentioned object. 
+    -  Pipeline combines mentioned objects. 
 -  Step 4. Train with RandomForesFlassifier 
 -  Step 5. Test
